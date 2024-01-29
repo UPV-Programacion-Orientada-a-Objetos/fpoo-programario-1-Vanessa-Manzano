@@ -5,9 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 public class problemaVeintidos {
 
-    public double calcularPago(double consumoKW, double costoKW) {
-        return consumoKW * costoKW;
-    }
+
     public void problema22() throws IOException {
 
         double pago, consumoKW, costoKW;

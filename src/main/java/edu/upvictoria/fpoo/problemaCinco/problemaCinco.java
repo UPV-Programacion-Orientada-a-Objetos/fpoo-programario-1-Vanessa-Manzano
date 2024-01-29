@@ -6,9 +6,6 @@ import java.io.InputStreamReader;
 
 public class problemaCinco {
 
-    public double calcularAreaFigura(double base, double altura) {
-        return (base * altura) + ((base * altura) / 2);
-    }
 
     public void problema5() throws IOException {
         double b, a, area;

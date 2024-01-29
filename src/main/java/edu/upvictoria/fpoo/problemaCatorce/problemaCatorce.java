@@ -9,12 +9,7 @@ import java.time.format.DateTimeFormatter;
 
 public class problemaCatorce {
 
-    public int calcularEdad(String fechaNacimiento) {
-        LocalDate fechaActual = LocalDate.now();
-        LocalDate fechaNac = LocalDate.parse(fechaNacimiento, DateTimeFormatter.ISO_LOCAL_DATE);
-        Period periodo = Period.between(fechaNac, fechaActual);
-        return Math.abs(periodo.getYears());
-    }
+
 
     public void problema14() throws IOException {
 

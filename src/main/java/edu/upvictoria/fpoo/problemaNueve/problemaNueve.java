@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaNueve {
 
-    public double calcularSueldoSemanal(double horas_trabajadas, double sueldo_baseHoras, double dias_trabajados) {
-        return horas_trabajadas * sueldo_baseHoras * dias_trabajados;
-    }
+
 
     public void problema9() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

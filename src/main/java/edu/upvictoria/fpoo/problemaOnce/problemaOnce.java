@@ -6,17 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaOnce {
 
-    public double calcularMetrosCubicos(double largo, double ancho, double profundidad) {
-        return largo * ancho * profundidad;
-    }
 
-    public double calcularLitrosCubicos(double metrosCubicos) {
-        return metrosCubicos * 1000;
-    }
-
-    public double calcularTotal(double metrosCubicos) {
-        return metrosCubicos * 100;
-    }
 
 
     public void problema11() throws IOException {

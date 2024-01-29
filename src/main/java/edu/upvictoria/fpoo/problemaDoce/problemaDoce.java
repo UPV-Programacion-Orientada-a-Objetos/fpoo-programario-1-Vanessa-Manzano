@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaDoce {
 
-    public double calcularAreaTriangulo(double base, double altura) {
-        return (base * altura) / 2;
-    }
+
 
     public void problema12() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

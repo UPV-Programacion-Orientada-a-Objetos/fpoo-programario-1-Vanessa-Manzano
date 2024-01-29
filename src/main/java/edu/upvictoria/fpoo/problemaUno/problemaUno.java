@@ -5,9 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class problemaUno {
-    public double suma(double n1, double n2) {
-        return n1 + n2;
-    }
+
 
     public void problema1() throws IOException {
         double total,a,b;

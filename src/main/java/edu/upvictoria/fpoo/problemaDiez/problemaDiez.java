@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaDiez {
 
-    public double convertirMetrosAPulgadas(double metros) {
-        return metros / 0.0254;
-    }
+
 
     public void problema10() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

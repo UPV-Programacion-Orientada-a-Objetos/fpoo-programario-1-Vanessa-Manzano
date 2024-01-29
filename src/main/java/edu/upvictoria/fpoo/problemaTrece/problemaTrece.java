@@ -6,9 +6,6 @@ import java.io.InputStreamReader;
 
 public class problemaTrece {
 
-    public double calcularConversionDolares(double monedaMexicana, double dolar) {
-        return monedaMexicana / dolar;
-    }
 
     public void problema13() throws IOException {
 

@@ -6,11 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaVeinticuatro {
 
-    public double AnuelAA(double sueldoSemanal) {
-        double ahorroSemanal = sueldoSemanal * 0.15;
-        double ahorroMensual = ahorroSemanal * 4;
-        return ahorroMensual * 12;
-    }
+
     public void problema24() throws IOException {
         double sueldoSemanal,ahorroSemanal,ahorroMensual,ahorroAnual;
 

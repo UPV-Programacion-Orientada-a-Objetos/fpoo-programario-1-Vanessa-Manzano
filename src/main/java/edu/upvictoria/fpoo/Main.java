@@ -3,31 +3,32 @@ package edu.upvictoria.fpoo;
 // import edu.upvictoria.fpoo.EstructurasSecuenciales.EjercicioUno;
 // import edu.upvictoria.fpoo.*;
 
-import edu.upvictoria.fpoo.ProblemaCatorce.ProblemaCATORCE;
-import edu.upvictoria.fpoo.ProblemaCinco.ProblemaCINCO;
-import edu.upvictoria.fpoo.ProblemaCuatro.ProblemaCUATRO;
-import edu.upvictoria.fpoo.ProblemaDieciNueve.ProblemaDIECINUEVE;
-import edu.upvictoria.fpoo.ProblemaDieciOcho.ProblemaDIECIOCHO;
-import edu.upvictoria.fpoo.ProblemaDieciSeis.ProblemaDIECISEIS;
-import edu.upvictoria.fpoo.ProblemaDieciSiete.ProblemaDIECISIETE;
-import edu.upvictoria.fpoo.ProblemaDiez.ProblemaDIEZ;
-import edu.upvictoria.fpoo.ProblemaDoce.ProblemaDOCE;
-import edu.upvictoria.fpoo.ProblemaDos.ProblemaDOS;
-import edu.upvictoria.fpoo.ProblemaNueve.ProblemaNUEVE;
-import edu.upvictoria.fpoo.ProblemaOcho.ProblemaOCHO;
-import edu.upvictoria.fpoo.ProblemaOnce.ProblemaONCE;
-import edu.upvictoria.fpoo.ProblemaQuince.ProblemaQUINCE;
-import edu.upvictoria.fpoo.ProblemaSeis.ProblemaSEIS;
-import edu.upvictoria.fpoo.ProblemaSiete.ProblemaSIETE;
-import edu.upvictoria.fpoo.ProblemaTrece.ProblemaTRECE;
-import edu.upvictoria.fpoo.ProblemaTres.ProblemaTRES;
-import edu.upvictoria.fpoo.ProblemaUno.ProblemaUNO;
-import edu.upvictoria.fpoo.ProblemaVeinte.ProblemaVEINTE;
-import edu.upvictoria.fpoo.ProblemaVeintiCinco.ProblemaVEINTICINCO;
-import edu.upvictoria.fpoo.ProblemaVeintiCuatro.ProblemaVEINTICUATRO;
-import edu.upvictoria.fpoo.ProblemaVeintiDos.ProblemaVEINTIDOS;
-import edu.upvictoria.fpoo.ProblemaVeintiTres.ProblemaVEINTITRES;
-import edu.upvictoria.fpoo.ProblemaVeintiUno.ProblemaVEINTIUNO;
+
+import edu.upvictoria.fpoo.problemaCatorce.problemaCatorce;
+import edu.upvictoria.fpoo.problemaCinco.problemaCinco;
+import edu.upvictoria.fpoo.problemaCuatro.problemaCuatro;
+import edu.upvictoria.fpoo.problemaDiecinueve.problemaDiecinueve;
+import edu.upvictoria.fpoo.problemaDieciocho.problemaDieciocho;
+import edu.upvictoria.fpoo.problemaDieciseis.problemaDieciseis;
+import edu.upvictoria.fpoo.problemaDiecisiete.problemaDiecisiete;
+import edu.upvictoria.fpoo.problemaDiez.problemaDiez;
+import edu.upvictoria.fpoo.problemaDoce.problemaDoce;
+import edu.upvictoria.fpoo.problemaDos.problemaDos;
+import edu.upvictoria.fpoo.problemaNueve.problemaNueve;
+import edu.upvictoria.fpoo.problemaOcho.problemaOcho;
+import edu.upvictoria.fpoo.problemaOnce.problemaOnce;
+import edu.upvictoria.fpoo.problemaQuince.problemaQuince;
+import edu.upvictoria.fpoo.problemaSeis.problemaSeis;
+import edu.upvictoria.fpoo.problemaSiete.problemaSiete;
+import edu.upvictoria.fpoo.problemaTrece.problemaTrece;
+import edu.upvictoria.fpoo.problemaTres.problemaTres;
+import edu.upvictoria.fpoo.problemaUno.problemaUno;
+import edu.upvictoria.fpoo.problemaVeinte.problemaVeinte;
+import edu.upvictoria.fpoo.problemaVeinticinco.problemaVeinticinco;
+import edu.upvictoria.fpoo.problemaVeinticuatro.problemaVeinticuatro;
+import edu.upvictoria.fpoo.problemaVeintidos.problemaVeintidos;
+import edu.upvictoria.fpoo.problemaVeintitres.problemaVeintitres;
+import edu.upvictoria.fpoo.problemaVeintiuno.problemaVeintiuno;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -76,113 +77,113 @@ public class Main {
 
                 switch (opcion) {
                     case 1:
-                        ProblemaUNO problemaUno = new ProblemaUNO();
+                        problemaUno problemaUno = new problemaUno();
                         problemaUno.problema1();
                         break;
                     case 2:
-                        ProblemaDOS problemaDos = new ProblemaDOS();
+                        problemaDos problemaDos = new problemaDos();
                         problemaDos.problema2();
                         break;
                     case 3:
-                        ProblemaTRES problemaTres = new ProblemaTRES();
+                        problemaTres problemaTres = new problemaTres();
                         problemaTres.problema3();
                         break;
                     case 4:
-                        ProblemaCUATRO problemaCuatro = new ProblemaCUATRO();
+                        problemaCuatro problemaCuatro = new problemaCuatro();
                         problemaCuatro.problema4();
                         break;
                     case 5:
-                        ProblemaCINCO problemaCinco= new ProblemaCINCO();
+                        problemaCinco problemaCinco= new problemaCinco();
                         problemaCinco.problema5();
                         break;
                     case 6:
-                        ProblemaSEIS problemaSeis= new ProblemaSEIS();
+                        problemaSeis problemaSeis= new problemaSeis();
                         problemaSeis.problema6();
                         break;
                     case 7:
-                        ProblemaSIETE problemaSiete= new ProblemaSIETE();
+                        problemaSiete problemaSiete= new problemaSiete();
                         problemaSiete.problema7();
                         break;
                     case 8:
-                        ProblemaOCHO problemaOcho= new ProblemaOCHO();
+                        problemaOcho problemaOcho= new problemaOcho();
                         problemaOcho.problema8();
                         break;
                     case 9:
-                        ProblemaNUEVE problemaNueve= new ProblemaNUEVE();
+                        problemaNueve problemaNueve= new problemaNueve();
                         problemaNueve.problema9();
                         break;
                     case 10:
-                        ProblemaDIEZ problemaDiez= new ProblemaDIEZ();
+                        problemaDiez problemaDiez= new problemaDiez();
                         problemaDiez.problema10();
                         break;
                     case 11:
-                        ProblemaONCE problemaOnce= new ProblemaONCE();
+                        problemaOnce problemaOnce= new problemaOnce();
                         problemaOnce.problema11();
                         break;
                     case 12:
-                        ProblemaDOCE problemaDoce= new ProblemaDOCE();
+                        problemaDoce problemaDoce= new problemaDoce();
                         problemaDoce.problema12();
                         break;
                     case 13:
-                        ProblemaTRECE problemaTrece= new ProblemaTRECE();
+                        problemaTrece problemaTrece= new problemaTrece();
                         problemaTrece.problema13();
                         break;
                     case 14:
-                        ProblemaCATORCE problemaCatorce = new ProblemaCATORCE();
+                        problemaCatorce problemaCatorce = new problemaCatorce();
                         problemaCatorce.problema14();
                         break;
                     case 15:
-                        ProblemaQUINCE problemaQuince = new ProblemaQUINCE();
+                        problemaQuince problemaQuince = new problemaQuince();
                         problemaQuince.problema15();
                         break;
                     case 16:
-                        ProblemaDIECISEIS problemaDieciseis= new ProblemaDIECISEIS();
+                        problemaDieciseis problemaDieciseis= new problemaDieciseis();
                         problemaDieciseis.problema16();
                         break;
                     case 17:
-                        ProblemaDIECISIETE problemaDiecisiete= new ProblemaDIECISIETE();
+                        problemaDiecisiete problemaDiecisiete= new problemaDiecisiete();
                         problemaDiecisiete.problema17();
                         break;
                     case 18:
-                        ProblemaDIECIOCHO problemaDieciocho= new ProblemaDIECIOCHO();
+                        problemaDieciocho problemaDieciocho= new problemaDieciocho();
                         problemaDieciocho.practica18();
                         break;
                     case 19:
-                        ProblemaDIECINUEVE problemaDiecinueve= new ProblemaDIECINUEVE();
+                        problemaDiecinueve problemaDiecinueve= new problemaDiecinueve();
                         problemaDiecinueve.practica19();
                         break;
                     case 20:
-                        ProblemaVEINTE problemaVeinte= new ProblemaVEINTE();
+                        problemaVeinte problemaVeinte= new problemaVeinte();
                         problemaVeinte.problema20();
                         break;
                     case 21:
-                        ProblemaVEINTIUNO problemaVeintiuno= new ProblemaVEINTIUNO();
+                        problemaVeintiuno problemaVeintiuno= new problemaVeintiuno();
                         problemaVeintiuno.problema21();
                         break;
                     case 22:
-                        ProblemaVEINTIDOS problemaVeintidos = new ProblemaVEINTIDOS();
+                        problemaVeintidos problemaVeintidos = new problemaVeintidos();
                         problemaVeintidos.problema22();
                         break;
                     case 23:
-                        ProblemaVEINTITRES problemaVeintitres = new ProblemaVEINTITRES();
+                        problemaVeintitres problemaVeintitres = new problemaVeintitres();
                         problemaVeintitres.problema23();
                         break;
                     case 24:
-                        ProblemaVEINTICUATRO problemaVeinticuatro = new ProblemaVEINTICUATRO();
+                        problemaVeinticuatro problemaVeinticuatro = new problemaVeinticuatro();
                         problemaVeinticuatro.problema24();
                         break;
                     case 25:
-                        ProblemaVEINTICINCO problemaVeinticinco = new ProblemaVEINTICINCO();
+                        problemaVeinticinco problemaVeinticinco = new problemaVeinticinco();
                         problemaVeinticinco.problema25();
                         break;
                     case 0:
-                        System.out.println("bye");
+                        System.out.println("Hasta luegooo!!!!");
                         break;
                     default:
-                        System.out.println("OPCION NO PERMITIDA");
+                        System.out.println("Opcion no valida");
                 }
             } catch (NumberFormatException | IOException e) {
-                System.out.println("Error al leer la entrada ----INTENTA OTRA VEZ");
+                System.out.println("Error, caracter no valido");
                 opcion = -1;
             }
         } while (opcion != 0);

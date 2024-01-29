@@ -6,10 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaCuatro {
 
-    public double calcularAreaCircunferencia(double radio) {
-        double pi = 3.1416;
-        return pi * (radio * radio);
-    }
+
 
     public void problema4() throws IOException {
         double pi=3.1416, radio=0, area=0;

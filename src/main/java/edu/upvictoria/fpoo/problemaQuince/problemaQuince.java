@@ -6,10 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaQuince {
 
-    public double cobramee (double horas) {
-        double tarifa = 15.0;
-        return Math.ceil(horas) * tarifa;
-    }
+
 
     public void problema15() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

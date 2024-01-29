@@ -5,9 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 public class problemaVeinte {
 
-    public double CostoLLamada(double a, double b) {
-        return a*b;
-    }
+
 
     public void problema20() throws IOException {
 

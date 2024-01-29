@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaDos {
 
-    public double p2ts(double calificaciones, double promedio){
-        return  promedio = ((calificaciones*promedio)/promedio);
-    }
+
 
     public void problema2() throws IOException {
         double calificaciones = 0, promedio=4;

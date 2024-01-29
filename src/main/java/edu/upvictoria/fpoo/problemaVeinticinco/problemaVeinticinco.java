@@ -6,10 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaVeinticinco {
 
-    public double Pacas_billetes(int dias, double hotel, double comida) {
-        double otrosGastos = 100.00;
-        return (hotel + comida + otrosGastos) * dias;
-    }
+
 
 
     public void problema25() throws IOException {
@@ -34,7 +31,7 @@ public class problemaVeinticinco {
         otrosGastos = 100.00;
         total = (hotel + comida + otrosGastos) * dias;
 
-        System.out.println("Monto total del cheque: $");
+        System.out.println("Monto total del cheque: $" + total);
         System.out.println("Hotel: $" + (hotel * dias));
         System.out.println("Comida: $" + (comida * dias));
         System.out.println("Otros gastos: $" + (otrosGastos * dias));

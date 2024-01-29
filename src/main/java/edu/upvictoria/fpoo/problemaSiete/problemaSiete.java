@@ -6,10 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaSiete {
 
-    public double calcularGanancia(double litros, double precio_litro) {
-        double galones = litros / 3.785;
-        return precio_litro * galones;
-    }
+
 
     public void problema7() throws IOException {
 

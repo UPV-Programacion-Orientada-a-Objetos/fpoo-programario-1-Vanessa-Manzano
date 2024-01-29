@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaOcho {
 
-    public double calcularDistancia(double distancia_x, double distancia_y) {
-        return Math.sqrt((distancia_x * distancia_x) + (distancia_y * distancia_y));
-    }
+
 
     public void problema8() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

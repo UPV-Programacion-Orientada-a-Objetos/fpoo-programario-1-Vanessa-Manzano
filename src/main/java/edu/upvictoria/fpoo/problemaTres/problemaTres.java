@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaTres {
 
-    public double calcularArea(double base, double altura) {
-        return base * altura;
-    }
+
 
     public void problema3() throws IOException {
 

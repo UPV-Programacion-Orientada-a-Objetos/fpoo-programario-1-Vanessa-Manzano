@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaSeis {
 
-    public double calcularAreaFigura(double hipotenusa, double radio) {
-        return (((radio * 2) * hipotenusa) / 2) + ((3.1416 * (radio * radio)) / 2);
-    }
+
 
     public void problema6() throws IOException {
 

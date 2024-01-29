@@ -7,6 +7,31 @@
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaCatorce/problemaCatorce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaCatorce/problemaCatorce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaCinco/problemaCinco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaCinco/problemaCinco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaCuatro/problemaCuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaCuatro/problemaCuatro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDiecinueve/problemaDiecinueve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDiecinueve/problemaDiecinueve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDieciocho/problemaDieciocho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDieciocho/problemaDieciocho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDieciseis/problemaDieciseis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDieciseis/problemaDieciseis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDiecisiete/problemaDiecisiete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDiecisiete/problemaDiecisiete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDiez/problemaDiez.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDiez/problemaDiez.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDoce/problemaDoce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDoce/problemaDoce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDos/problemaDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaDos/problemaDos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaNueve/problemaNueve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaNueve/problemaNueve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaOcho/problemaOcho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaOcho/problemaOcho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaOnce/problemaOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaOnce/problemaOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaQuince/problemaQuince.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaQuince/problemaQuince.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaSeis/problemaSeis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaSeis/problemaSeis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaSiete/problemaSiete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaSiete/problemaSiete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaTrece/problemaTrece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaTrece/problemaTrece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaTres/problemaTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaTres/problemaTres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaUno/problemaUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaUno/problemaUno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeinte/problemaVeinte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeinte/problemaVeinte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeinticinco/problemaVeinticinco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeinticinco/problemaVeinticinco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeinticuatro/problemaVeinticuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeinticuatro/problemaVeinticuatro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeintidos/problemaVeintidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeintidos/problemaVeintidos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeintitres/problemaVeintitres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeintitres/problemaVeintitres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeintiuno/problemaVeintiuno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/problemaVeintiuno/problemaVeintiuno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +63,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.problemaUnoTest.executor&quot;: &quot;Debug&quot;,
     &quot;Maven.programario_uno [compile].executor&quot;: &quot;Run&quot;,
     &quot;Maven.programario_uno [test].executor&quot;: &quot;Run&quot;,
@@ -86,7 +112,8 @@
       <workItem from="1706398883246" duration="1354000" />
       <workItem from="1706476313947" duration="371000" />
       <workItem from="1706490443321" duration="206000" />
-      <workItem from="1706490676927" duration="11846000" />
+      <workItem from="1706490676927" duration="14963000" />
+      <workItem from="1706506052646" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
       <created>1685065857556</created>

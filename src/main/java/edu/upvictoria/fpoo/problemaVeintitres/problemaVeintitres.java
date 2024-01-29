@@ -7,11 +7,7 @@ import java.io.InputStreamReader;
 
 public class problemaVeintitres {
 
-    public double calcularTotal(double precio) {
-        double descuento = precio * 0.20;
-        double iva = precio * 0.15;
-        return (precio - descuento) + iva;
-    }
+
     public void problema23() throws IOException {
 
         double precio, descuento, iva, total;

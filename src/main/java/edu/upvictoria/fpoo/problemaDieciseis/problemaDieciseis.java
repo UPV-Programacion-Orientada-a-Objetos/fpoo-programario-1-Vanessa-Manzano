@@ -6,10 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaDieciseis {
 
-    public double calcularm2(double largo, double ancho, double costo) {
-        double m2 = largo * ancho;
-        return m2 * costo;
-    }
+
 
     public void problema16() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaDiecinueve {
 
-    public double calcularTiempo(double velocidad, double distancia) {
-        return distancia / velocidad;
-    }
+
     public void practica19() throws IOException {
 
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

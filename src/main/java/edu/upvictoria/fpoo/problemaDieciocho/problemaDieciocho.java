@@ -5,9 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 public class problemaDieciocho {
 
-    public double costo_boleto(double km, double costo_km) {
-        return km * costo_km;
-    }
+
 
     public void practica18() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));

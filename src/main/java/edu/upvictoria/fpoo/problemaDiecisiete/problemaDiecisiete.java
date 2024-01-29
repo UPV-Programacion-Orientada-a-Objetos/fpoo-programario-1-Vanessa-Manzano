@@ -6,9 +6,7 @@ import java.io.InputStreamReader;
 
 public class problemaDiecisiete {
 
-    public double calcularHipotenusa(double a, double b) {
-        return Math.sqrt((a * a) + (b * b));
-    }
+
 
     public void problema17() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));
